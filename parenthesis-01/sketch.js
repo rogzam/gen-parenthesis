@@ -117,6 +117,6 @@ function mouseClicked() {
 }
 
 function modelReady() {
-  select('#status').hide();
+  //select('#status').hide();
 }
 
